@@ -1,5 +1,5 @@
-var website = 'https://yangfanapi.sina.com.cn/';
-// var website = 'http://web.yangfansystemt.sina.com.cn/'; // 测试域名
+var website = 'https://....com';
+// var website = 'https://...com'; // 测试域名
 
 function _matchingAPI(obj){
   return new Promise((resolve, reject) => {
